@@ -1,0 +1,14 @@
+{
+  "name": "freight-transport",
+  "version": "1.0.0",
+  "description": "货运",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "货运"
+  ],
+  "author": "lb",
+  "license": "ISC"
+}
